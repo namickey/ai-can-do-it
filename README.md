@@ -20,6 +20,9 @@ https://zenn.dev/ryo369/articles/d02561ddaacc62
 AI Agents vs Agentic AI : 用語の違いを整理してみた  
 https://zenn.dev/chips0711/articles/6e3268fbc6ad53  
 
+AIエージェント ≠ エージェンティックAI ― デモとプロダクションシステムを分ける境界線 ―  
+https://qiita.com/tms-ducvu/items/252ca8e062c0d0dbc02d  
+
 ## フィジカル AI
 
 ざっくりわかる フィジカルAI  

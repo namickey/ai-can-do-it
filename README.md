@@ -99,3 +99,7 @@ https://zenn.dev/naokky/articles/202601-codex-skills
 
 ## NotebookLM
 
+【NotebookLM編】エンジニアの「絵で説明して」問題、どこまで解消できるか試してみた  
+https://qiita.com/ntaka329/items/6d21472b80b90a1bf0af  
+
+

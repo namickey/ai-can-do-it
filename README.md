@@ -2,14 +2,17 @@
 
 ## index
 
-RAG, AI Agent, Agentic AI, Physical AI, MCP, MCP Apps, AGENTS.md, Agent Skills, Multi AI Agents, Codex
+History of AI, RAG, AI Agent, Agentic AI, Physical AI, MCP, MCP Apps, AIコーディング, AGENTS.md, Agent Skills, GitHub Copilot, GitHub Copilot CLI, Claude Code, Agent Team, Claude Cowork, OpenClaw, マルチAIエージェント, Codex, NotebookLM, AI Gap
 
-## 歴史
+## History of AI
 
 生成AIから進化最新動向 — AIの進化は今どこまで来て、どこへ向かうのか？  
 https://qiita.com/espritfort_tech/items/45443dd805347772a59b  
 
 ## RAG
+
+ベクトル検索以外のRAG手法7選｜比較表付き解説  
+https://tech-lab.sios.jp/archives/51219  
 
 ## AI Agent
 
@@ -30,6 +33,9 @@ https://qiita.com/tms-ducvu/items/252ca8e062c0d0dbc02d
 https://qiita.com/mofu_mother/items/dca4e43b56b6357a7d8c  
 
 ## MCP
+
+ちゃんと理解したい初心者のための「MCP」まとめ  
+https://qiita.com/to3izo/items/99dd3cde237c2e5a007f  
 
 ## MCP Apps
 
@@ -57,6 +63,12 @@ https://qiita.com/masayan1126/items/168fb1f8550265cc42aa
 【保存版】skills.shが神すぎる！Claude Codeを10倍強化する最強スキル20選  
 https://qiita.com/emi_ndk/items/26708efbbabfeca0a840  
 
+2026年初頭のClaude Code Skillsについてまとめる  
+https://zenn.dev/nanahiryu/articles/claude-code-skills-202601  
+
+【Claude Code Skills】superpowers - AIエージェント向け開発ワークフローの決定版を徹底解説  
+https://qiita.com/pythonista0328/items/723b5cb4ef19718ed491  
+
 ## GitHub Copilot
 
 【GitHub Copilot】*.agent.md を使って、好きなときにさまざまな人格を呼び出そう！【てぇてぇ】  
@@ -78,11 +90,34 @@ https://zenn.dev/aya/articles/29d2125d44d4ef
 
 https://github.com/github/copilot-cli  
 
-
 ## Claude Code
 
 Claude Code 超完全ガイド | エンジニアから投資家まで、すべてのユーザーのための実践マニュアル  
 https://note.com/fabymetal/n/n3f0f2873b56c  
+
+【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ  
+https://qiita.com/shatolin/items/ca1810e419fee5fd963b  
+
+## Agent Team
+
+Agent Teamを使ってロールプレイ駆動開発してみよう  
+https://zenn.dev/sakasegawa/articles/e6a8aa168a7d19  
+
+Claude Code Agent Teams を試す：複数AIエージェントの協調作業  
+https://qiita.com/nero-15/items/c12a9403a7d7673ae432  
+
+## Claude Cowork
+
+AIに作業を丸投げできる「Claude Cowork」を試す　ファイル整理が一瞬で完了!  
+https://www.watch.impress.co.jp/docs/topic/2079398.html  
+
+【速報】Anthropic Coworkが変えるAI時代の働き方｜7日分の仕事を15分で終わらせる具体的方法  
+https://zenn.dev/babushkai/articles/2026-01-25-claude-cowork-ultimate-productivity  
+
+## OpenClaw
+
+面白すぎて危険すぎ！ PCを“勝手に動かす”AI、OpenClaw（旧Moltbot／Clawdbot）とは  
+https://ascii.jp/elem/000/004/370/4370464/  
 
 ## マルチAIエージェント
 
@@ -101,5 +136,19 @@ https://zenn.dev/naokky/articles/202601-codex-skills
 
 【NotebookLM編】エンジニアの「絵で説明して」問題、どこまで解消できるか試してみた  
 https://qiita.com/ntaka329/items/6d21472b80b90a1bf0af  
+
+## AI Gap
+
+ChatGPTに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた  
+https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d  
+
+【警告】6倍の生産性格差が生まれている｜AIを使う者と使わない者、2つの労働者階級の誕生  
+https://zenn.dev/babushkai/articles/2026-01-25-ai-literacy-gap-two-workforces-divide  
+
+AIに「お役所の課長の悩み」を理解させたら、提案書が3時間で完成した。人間が3ヶ月かかる仕事を100倍速にする方法  
+https://qiita.com/d94231/items/1433ce5483a0395d4ad7  
+
+生成AIを使う人・使わない人の違いが明らかに―日本全国のネット利用者1万3千人調査で見えた新たな「AI格差」―  
+https://prtimes.jp/main/html/rd/p/000001102.000015177.html  
 
 

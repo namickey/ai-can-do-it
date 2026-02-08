@@ -2,7 +2,7 @@
 
 ## index
 
-History of AI, RAG, AI Agent, Agentic AI, Physical AI, MCP, MCP Apps, AIコーディング, AGENTS.md, Agent Skills, GitHub Copilot, GitHub Copilot CLI, Claude Code, Agent Team, Claude Cowork, OpenClaw, マルチAIエージェント, Codex, NotebookLM, AI Gap
+History of AI, RAG, Agentic Search, AI Agent, Agentic AI, Physical AI, MCP, MCP Apps, AIコーディング, AGENTS.md, Agent Skills, GitHub Copilot, GitHub Spec Kit, AI-Driven Development, GitHub Copilot CLI, Claude Code, Agent Team, Claude Cowork, OpenClaw, マルチAIエージェント, Codex, NotebookLM, AI Gap
 
 ## History of AI
 
@@ -13,6 +13,11 @@ https://qiita.com/espritfort_tech/items/45443dd805347772a59b
 
 ベクトル検索以外のRAG手法7選｜比較表付き解説  
 https://tech-lab.sios.jp/archives/51219  
+
+## Agentic Search
+
+なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？  
+https://zenn.dev/karamage/articles/2514cf04e0d1ac  
 
 ## AI Agent
 
@@ -85,6 +90,16 @@ https://zenn.dev/openjny/articles/a9d4f6ec2a05c2
 
 VSCode Github Copilot Chatに打鍵テストやってもらおう  
 https://zenn.dev/aya/articles/29d2125d44d4ef  
+
+## GitHub Spec Kit
+
+進化しているGitHub Spec Kit  
+https://note.com/tandago/n/n24e0f1e0647e  
+
+## AI-Driven Development 
+
+人間は意図、AIは実装：Codexが導く「要件を伝えるだけ」のAI駆動開発ワークフロー  
+https://developers.cyberagent.co.jp/blog/archives/62010/  
 
 ## GitHub Copilot CLI
 

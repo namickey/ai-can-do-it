@@ -113,6 +113,9 @@ https://note.com/fabymetal/n/n3f0f2873b56c
 【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ  
 https://qiita.com/shatolin/items/ca1810e419fee5fd963b  
 
+Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）  
+https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo  
+
 ## Agent Team
 
 Agent Teamを使ってロールプレイ駆動開発してみよう  
@@ -120,6 +123,12 @@ https://zenn.dev/sakasegawa/articles/e6a8aa168a7d19
 
 Claude Code Agent Teams を試す：複数AIエージェントの協調作業  
 https://qiita.com/nero-15/items/c12a9403a7d7673ae432  
+
+Claude Code Agent Teamsのあそびかた  
+https://blog.lai.so/agent-teams/  
+
+ClaudeCodeのAgent Teamsを体験できる手順書  
+https://note.com/suh_sunaneko/n/nfe794eac6a23  
 
 ## Claude Cowork
 

@@ -2,7 +2,7 @@
 
 ## index
 
-History of AI, RAG, Agentic Search, AI Agent, Agentic AI, Physical AI, MCP, MCP Apps, AIコーディング, AGENTS.md, Agent Skills, GitHub Copilot, GitHub Spec Kit, AI-Driven Development, GitHub Copilot CLI, Claude Code, Agent Team, Claude Cowork, OpenClaw, マルチAIエージェント, Codex, NotebookLM, AI Gap
+History of AI, RAG, Agentic Search, AI Agent, Agentic AI, Physical AI, MCP, CLI, MCP Apps, AIコーディング, AGENTS.md, Agent Skills, GitHub Copilot, GitHub Copilot CLI, GitHub Spec Kit, AI-Driven Development, Claude Code, Agent Team, Claude Cowork, OpenClaw, マルチAIエージェント, Codex, NotebookLM, AI Gap  
 
 ## History of AI
 
@@ -24,6 +24,9 @@ https://zenn.dev/karamage/articles/2514cf04e0d1ac
 AIエージェント時代、正直しんどい話  
 https://zenn.dev/ryo369/articles/d02561ddaacc62  
 
+AIエージェント設計ガイド - 初心者でもわかる作り方のコツ  
+https://note.com/aoki_monpro/n/nbc21bfd6589a  
+
 ## Agentic AI
 
 AI Agents vs Agentic AI : 用語の違いを整理してみた  
@@ -41,6 +44,16 @@ https://qiita.com/mofu_mother/items/dca4e43b56b6357a7d8c
 
 ちゃんと理解したい初心者のための「MCP」まとめ  
 https://qiita.com/to3izo/items/99dd3cde237c2e5a007f  
+
+MCPはなぜCLIに負けたのか —— 経緯と構造を整理する  
+https://zenn.dev/hiraly/articles/3409b886607274  
+
+## CLI
+
+Google Workspace CLIが登場したので試してみた  
+https://dev.classmethod.jp/articles/google-workspace-cli-release/  
+
+
 
 ## MCP Apps
 
@@ -91,6 +104,19 @@ https://zenn.dev/openjny/articles/a9d4f6ec2a05c2
 VSCode Github Copilot Chatに打鍵テストやってもらおう  
 https://zenn.dev/aya/articles/29d2125d44d4ef  
 
+Github Copilotを標準機能の範囲で賢くしよう  
+https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85  
+
+VS Code + GitHub Copilot で並列タスクが快適になったので、やり方を整理する  
+https://zenn.dev/shinkawa/articles/d9f260627ee4b8  
+
+## GitHub Copilot CLI
+
+https://github.com/github/copilot-cli  
+
+3分で学ぶ GitHub Copilot CLI の基本とベストプラクティス  
+https://blog.inorinrinrin.com/entry/2026/03/07/180419  
+
 ## GitHub Spec Kit
 
 進化しているGitHub Spec Kit  
@@ -100,10 +126,6 @@ https://note.com/tandago/n/n24e0f1e0647e
 
 人間は意図、AIは実装：Codexが導く「要件を伝えるだけ」のAI駆動開発ワークフロー  
 https://developers.cyberagent.co.jp/blog/archives/62010/  
-
-## GitHub Copilot CLI
-
-https://github.com/github/copilot-cli  
 
 ## Claude Code
 
@@ -115,6 +137,9 @@ https://qiita.com/shatolin/items/ca1810e419fee5fd963b
 
 Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）  
 https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo  
+
+Claude Code 最新アップデートまとめ（2026年2月時点）  
+https://qiita.com/gawa32/items/4d0737f8e07dd5fb8a48  
 
 ## Agent Team
 
@@ -129,6 +154,9 @@ https://blog.lai.so/agent-teams/
 
 ClaudeCodeのAgent Teamsを体験できる手順書  
 https://note.com/suh_sunaneko/n/nfe794eac6a23  
+
+Claude Code Agent Teamsの衝撃と実際  
+https://gihyo.jp/article/2026/02/get-started-claude-code-07  
 
 ## Claude Cowork
 
@@ -175,4 +203,5 @@ https://qiita.com/d94231/items/1433ce5483a0395d4ad7
 生成AIを使う人・使わない人の違いが明らかに―日本全国のネット利用者1万3千人調査で見えた新たな「AI格差」―  
 https://prtimes.jp/main/html/rd/p/000001102.000015177.html  
 
-
+エンジニアは、なぜ生成AIで仕事が楽にならないのか  
+https://qiita.com/KYoshiyama/items/14554853372f33c3374b  
